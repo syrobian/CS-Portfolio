@@ -5,9 +5,7 @@ To interpret user needs I try to understand what they require of their experienc
 
 User stories are one way of achieving this. The example below shows how a simple user story was written:
 
-“book a detox/wellness vacation”
-
-“as a user, I want to book a detox/wellness vacation so that i can improve my health and overall well-being.”
+“As a user, I want to book a detox/wellness vacation so that i can improve my health and overall well-being.”
 
 As shown above, creating user stories helped our team break down big pieces of functionality into small enough chunks that we could complete each piece over the course of many sprints. This kept us laser-focused on meeting the needs of the users.
 
@@ -18,13 +16,13 @@ I develop programs based on an agile framework. An Agile framework provides stru
 
 The following are examples of some Agile frameworks I used and will continue to use:
 
-• sprint planning
-• daily stand-ups (check-in)
-• iterative development
-• sprint reviews
-• sprint retrospective
+- Sprint planning  
+- Daily stand-ups (check-ins)  
+- Iterative development  
+- Sprint reviews  
+- Sprint retrospectives
 
-Using agile frameworks has given my team the ability to easily adjust to changing circumstances while still maintaining consistent progress throughout a project.
+Using Agile frameworks has given my team the ability to easily adjust to changing circumstances while still maintaining consistent progress throughout a project.
 
 ---
 
@@ -33,11 +31,11 @@ In software development being a good team member includes technical contribution
 
 Some characteristics that make up a Good Team member include:
 
-• clear communication
-• taking ownership of assigned work items
-• working with other team members
-• participating in problem solving
-• maintaining accurate documentation
+- Clear communication  
+- Taking ownership of assigned work items  
+- Working with other team members  
+- Participating in problem solving  
+- Maintaining accurate documentation    
 
 Ultimately, success comes from working together effectively, communicating effectively, and holding yourself accountable for your actions.
 
