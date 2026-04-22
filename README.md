@@ -1,4 +1,4 @@
-##  cs 250 module eight journal reflection
+##  CS 250 module eight journal reflection
 
 ### 1. Interpreting User Needs & User Stories
 To interpret user needs i try to understand what they require of their experience and ensure the end result is something that has real value to them. I have done this by translating the users needs into specific development tasks within my project.
